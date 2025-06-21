@@ -1,0 +1,1 @@
+# NextJs-AI-Proj
